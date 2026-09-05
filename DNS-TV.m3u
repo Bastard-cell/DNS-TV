@@ -209,7 +209,7 @@ https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Evrokino.ru@HD" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="Фильмы",Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
 
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" group-title="Sports",Extreme Sports Channel (576p)
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png" group-title="Спорт",Extreme Спорт Channel (576p)
 http://46.32.176.50/extremesport/index.m3u8
 
 #EXTINF:-1 tvg-id="FAN.ru@SD" tvg-logo="https://i.imgur.com/mDeTbaF.png" group-title="Animation;Фильмы",FAN (1080p)
@@ -272,10 +272,10 @@ http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 tvg-id="KapitanFantastika.ru@SD" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="Дети",Kapitan Fantastika (1080p)
 http://stream.mcquack.net/144/index.m3u8
 
-#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="Sports",KHL (720p)
+#EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="Спорт",KHL (720p)
 http://31.148.48.15/KHL_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Sports",KHL Prime (1080p)
+#EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Спорт",KHL Prime (1080p)
 http://stream.mcquack.net/178/index.m3u8
 
 #EXTINF:-1 tvg-id="Kino24.ru@SD" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="Фильмы",Kino 24 (720p)
@@ -353,16 +353,16 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mama.ru@SD" tvg-logo="https://i.imgur.com/kmMIjjf.png" group-title="Дети",Mama (576p)
 http://stream.mcquack.net/79/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchBoets.ru@SD" tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="Sports",Match! Boets (576p)
+#EXTINF:-1 tvg-id="MatchBoets.ru@SD" tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="Спорт",Match! Boets (576p)
 http://stream.mcquack.net/112/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" tvg-logo="https://i.imgur.com/vhyMb9D.png" group-title="Sports",Match! Planeta (576p)
+#EXTINF:-1 tvg-id="MatchPlaneta.ru@SD" tvg-logo="https://i.imgur.com/vhyMb9D.png" group-title="Спорт",Match! Planeta (576p)
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="Sports",Match! Strana (720p)
+#EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="Спорт",Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Sports",Match! Ultra (720p)
+#EXTINF:-1 tvg-id="MatchUltra.ru@4K" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Спорт",Match! Ultra (720p)
 http://stream.mcquack.net/169/index.m3u8
 
 #EXTINF:-1 tvg-id="MCMTop.ru@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Музыка",MCM Top (576p)
@@ -380,7 +380,7 @@ http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Series",Mir Seriala (576p)
 http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports",MMA TV.com (1080p)
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Спорт",MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-logo="https://i.imgur.com/95Y8jb6.png" group-title="Фильмы",Mosfilm Gold Collection (576p)
@@ -494,13 +494,13 @@ http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" group-title="Outdoor",Okhota i rybalka (576p)
 http://stream.mcquack.net/155/index.m3u8
 
-#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Sports",Okko Futbol (1080p)
+#EXTINF:-1 tvg-id="OkkoFutbol.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" group-title="Спорт",Okko Futbol (1080p)
 http://stream.mcquack.net/491/index.m3u8
 
-#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Sports",Okko Prajm Sport (1080p)
+#EXTINF:-1 tvg-id="OkkoPrajmSport.ru@SD" tvg-logo="https://i.imgur.com/kQq5DMU.png" group-title="Спорт",Okko Prajm Sport (1080p)
 http://stream.mcquack.net/493/index.m3u8
 
-#EXTINF:-1 tvg-id="OkkoSport.ru@SD" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Sports",Okko Sport (1080p)
+#EXTINF:-1 tvg-id="OkkoSport.ru@SD" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="Спорт",Okko Sport (1080p)
 http://stream.mcquack.net/492/index.m3u8
 
 #EXTINF:-1 tvg-id="Oruzhie.ru@SD" tvg-logo="https://i.imgur.com/lfJQJqa.png" group-title="Entertainment",Oruzhie (576p)
@@ -666,11 +666,11 @@ http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="Не распределено",Sarafan (576p)
 http://stream.mcquack.net/81/index.m3u8
 
-#EXTINF:-1 tvg-id="SetantaSports1.ru@SD" tvg-logo="https://i.imgur.com/8ANUZAu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 1
+#EXTINF:-1 tvg-id="SetantaSports1.ru@SD" tvg-logo="https://i.imgur.com/8ANUZAu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Спорт",Setanta Спорт 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
-#EXTINF:-1 tvg-id="SetantaSports2.ru@SD" tvg-logo="https://i.imgur.com/NOBACb6.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Sports",Setanta Sports 2
+#EXTINF:-1 tvg-id="SetantaSports2.ru@SD" tvg-logo="https://i.imgur.com/NOBACb6.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Спорт",Setanta Спорт 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
@@ -731,7 +731,7 @@ http://178.124.179.122:8080/TRO/index.m3u8
 #EXTINF:-1 tvg-id="Spas.ru@SD" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="Religious",Spas (576p)
 http://hls127.freeott.top:8080/Spas/video.m3u8
 
-#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Sports",Sportivnyy (1080p)
+#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" tvg-logo="https://i.imgur.com/ujS6mMo.png" group-title="Спорт",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
 
 #EXTINF:-1 tvg-id="StarCinema.ru@SD" tvg-logo="https://i.imgur.com/5sis895.png" group-title="Фильмы",Star Cinema
@@ -816,7 +816,7 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="TopSecret.ru@SD" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="Documentary",Top Secret (576p)
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 
-#EXTINF:-1 tvg-id="TraceSportStars.fr@Russia" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports",Trace Sport Stars Russia (720p)
+#EXTINF:-1 tvg-id="TraceSportStars.fr@Russia" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Спорт",Trace Sport Stars Russia (720p)
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="Travel",Travel+Adventure (1080p)
@@ -853,7 +853,7 @@ http://stream.mcquack.net/136/index.m3u8
 
 #EXTINF:-1 tvg-id="U.ru@SD" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="Entertainment",U (720p)
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1 tvg-id="UDAR.ru@SD" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" group-title="Sports",UDAR (1080p)
+#EXTINF:-1 tvg-id="UDAR.ru@SD" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" group-title="Спорт",UDAR (1080p)
 http://5.188.159.128:8070/udar/index.m3u8
 
 #EXTINF:-1 tvg-id="Unikum.ru@SD" tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="Не распределено",Unikum (576p)
@@ -910,10 +910,10 @@ http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Series",viju+ Serial HD (1080p)
 http://stream.mcquack.net/311/index.m3u8
 
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports",viju+ Sport (576p)
+#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Спорт",viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
 
-#EXTINF:-1 tvg-id="VitalDrive.ru@HD" tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="Sports",VITAL Drive
+#EXTINF:-1 tvg-id="VitalDrive.ru@HD" tvg-logo="https://i.imgur.com/XoR9zLh.png" group-title="Спорт",VITAL Drive
 https://autopilot.catcast.tv/content/37909/index.m3u8
 
 #EXTINF:-1 tvg-id="VitrinaTV.ru@SD" tvg-logo="https://i.imgur.com/lzQsVfn.png" group-title="Shop",Vitrina TV (720p)
@@ -976,7 +976,7 @@ https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-id="Astrahan24.ru@SD" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="News",Астрахань 24 (720p)
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Sports",Астрахань.Ru Sport (720p)
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Спорт",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="Не распределено",Астрахань.Ru TV (480p)
@@ -988,7 +988,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belgorod24.ru@SD" tvg-logo="https://i.imgur.com/EEirvyx.png" group-title="Основной",Белгород 24 (1080p)
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 
-#EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="Sports",Бокс ТВ (720p)
+#EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="Спорт",Бокс ТВ (720p)
 http://31.148.48.15/Boks_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="BigAsia.ru@SD" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="Не распределено",Большая Азия (720p)
@@ -1121,10 +1121,10 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="Magnat.ru@SD" tvg-logo="https://i.imgur.com/r485aZL.png" group-title="Shop",Магнат ТВ (1080p)
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 
-#EXTINF:-1 tvg-id="MatchArena.ru@SD" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="Sports",МАТЧ! Арена (720p)
+#EXTINF:-1 tvg-id="MatchArena.ru@SD" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="Спорт",МАТЧ! Арена (720p)
 http://31.148.48.15/Match_Arena_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="MatchIgra.ru@SD" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="Sports",МАТЧ! Игра (720p)
+#EXTINF:-1 tvg-id="MatchIgra.ru@SD" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="Спорт",МАТЧ! Игра (720p)
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Millet.ru@SD" tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="News",Миллет (720p)
@@ -1275,7 +1275,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Фильмы",Русский Роман (1080p)
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="RussianExtreme.ru@SD" tvg-logo="https://i.imgur.com/hJK7mOW.png" group-title="Sports",Русский Экстрим (576p)
+#EXTINF:-1 tvg-id="RussianExtreme.ru@SD" tvg-logo="https://i.imgur.com/hJK7mOW.png" group-title="Спорт",Русский Экстрим (576p)
 http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 
 #EXTINF:-1 tvg-id="S1.ru@SD" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Не распределено",С1 (Сургут) (1080p) [Not 24/7]
@@ -1377,7 +1377,7 @@ http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuz.ru@SD" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="Religious",Союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StartTriumf.ru@SD" tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="Sports",СТАРТ Триумф
+#EXTINF:-1 tvg-id="StartTriumf.ru@SD" tvg-logo="https://i.imgur.com/L9jTieL.png" group-title="Спорт",СТАРТ Триумф
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 
 #EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="Музыка",Страна FM (720p) [Not 24/7]
@@ -1438,7 +1438,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru@SD" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Фильмы",Феникс плюс Кино (576p)
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 
-#EXTINF:-1 tvg-id="Football.ru@SD" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Sports",Футбол (720p)
+#EXTINF:-1 tvg-id="Football.ru@SD" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Спорт",Футбол (720p)
 http://31.148.48.15/Futbol_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ShayanTV.ru@SD" tvg-logo="https://i.imgur.com/CvFwczN.png" group-title="Не распределено",Шаян ТВ (Татарстан) (1080p)
